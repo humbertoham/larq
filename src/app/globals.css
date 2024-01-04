@@ -9,12 +9,26 @@
  
 
 }
-
+.you{
+  width: 100%;
+  height: 800px;
+  
+}
+.ban{
+  width: 100%;
+  height: auto;
+}
 .logo{
   height: 100px;
   width: auto;
 }
+.aV{
 
+  width: 100%;
+  height: 315px;
+
+
+}
 .nav{
   transition: all 0.3s ease-in-out;
   color: white;

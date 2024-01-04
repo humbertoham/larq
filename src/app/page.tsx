@@ -13,9 +13,10 @@ export default function Home() {
   return (
     <>
       <Navbar/>
-      <Banner/>
+      
      
       <About/>
+      <Services/>
       <Contact/>
       <Footer/>
       <ButtonR/>

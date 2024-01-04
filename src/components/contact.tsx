@@ -70,12 +70,20 @@ export default function Contact() {
                             
                             <p className="text-neutral-500 ">
                             <a href="https://www.facebook.com/LarqArchitecture"  target="_blank" >
-                            LARQ REAL STATE Facebook
+                            Facebook
                                 </a>
                             </p>
                             <p className="text-neutral-500 ">
               <a href="https://www.instagram.com/larqrealstate" target="_blank" >
-              LARQ REAL STATE Instagram
+              Instagram
+              </a>  </p>
+              <p className="text-neutral-500 ">
+              <a href="https://www.tiktok.com/@larq.real.state" target="_blank" >
+              TikTok
+              </a>  </p>
+              <p className="text-neutral-500 ">
+              <a href="https://www.youtube.com/@LARQREALSTATE" target="_blank" >
+              YouTube
               </a>  </p>
                         </div>
                     </div>

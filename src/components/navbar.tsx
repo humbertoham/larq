@@ -4,9 +4,9 @@ import { Fragment } from 'react'
 import { Disclosure, Menu, Transition  } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon, EnvelopeIcon, PhoneIcon } from '@heroicons/react/24/outline'
 import { MdEmail } from "react-icons/md";
-import { FaFacebook, FaInstagram } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaTiktok } from "react-icons/fa";
 const navigation = [
-  { name: 'Acerca de', href: '#acerca', current: false },
+  { name: 'Real State', href: '/realstate', current: false },
   { name: 'Servicios', href: '#servicios', current: false },
   { name: 'Contáctanos', href: '#contacto', current: false },
  
@@ -80,6 +80,7 @@ export default function Navbar() {
                   <div className='hidden sm:ml-6 sm:block'>
                   <a href='https://www.instagram.com/larqrealstate' target="_blank" > <FaInstagram className = 'iconfa'/> </a>
                   </div>
+                 
               </div>
             </div>
           </div>
