@@ -84,7 +84,7 @@ Descubre tu paraíso junto al mar en Puerto Vicente Guerrero, Petatlán, donde t
 
         </div>
         <div className="grid grid-cols-1 gap-4 mt-8">
-        <img src="./images/vicente.jpg" className="ban" />
+        <img src="./images/vicente.JPG" className="ban" />
             
         </div>
     </div>
