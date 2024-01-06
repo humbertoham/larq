@@ -7,7 +7,7 @@ import { MdEmail } from "react-icons/md";
 import { FaFacebook, FaInstagram, FaTiktok } from "react-icons/fa";
 const navigation = [
   { name: 'Real State', href: '/realstate', current: false },
-  { name: 'Servicios', href: '#servicios', current: false },
+  { name: 'Servicios', href: '/#servicios', current: false },
   { name: 'Contáctanos', href: '#contacto', current: false },
  
 ]

@@ -34,8 +34,8 @@ export default function Contact() {
                                 Número
                             </p>
                             
-                            <p className="text-neutral-500 ">
-                            +52 1 755 144 1259
+                            <p className="text-neutral-500">
+                          <a href='https://api.whatsapp.com/send/?phone=%2B527551441259' className=' hover:underline' target='_blank'> +52 1 755 144 1259</a> 
                             </p>
                         </div>
                     </div>
@@ -69,20 +69,20 @@ export default function Contact() {
                             <p className="mb-2 font-bold ">Redes sociales</p>
                             
                             <p className="text-neutral-500 ">
-                            <a href="https://www.facebook.com/LarqArchitecture"  target="_blank" >
+                            <a href="https://www.facebook.com/LarqArchitecture" className=' hover:underline' target="_blank" >
                             Facebook
                                 </a>
                             </p>
                             <p className="text-neutral-500 ">
-              <a href="https://www.instagram.com/larqrealstate" target="_blank" >
+              <a href="https://www.instagram.com/larqrealstate"  className=' hover:underline' target="_blank" >
               Instagram
               </a>  </p>
               <p className="text-neutral-500 ">
-              <a href="https://www.tiktok.com/@larq.real.state" target="_blank" >
+              <a href="https://www.tiktok.com/@larq.real.state" className=' hover:underline' target="_blank" >
               TikTok
               </a>  </p>
               <p className="text-neutral-500 ">
-              <a href="https://www.youtube.com/@LARQREALSTATE" target="_blank" >
+              <a href="https://www.youtube.com/@LARQREALSTATE" className=' hover:underline' target="_blank" >
               YouTube
               </a>  </p>
                         </div>

@@ -1,13 +1,11 @@
 import About from '@/components/about'
-import Banner from '@/components/banner'
 import ButtonR from '@/components/buttonr'
 import Contact from '@/components/contact'
 import Footer from '@/components/footer'
 import Navbar from '@/components/navbar'
+import Real from '@/components/real'
 import Services from '@/components/services'
-import Testimonials from '@/components/testimonials'
-import Work from '@/components/workwithus'
-import Image from 'next/image'
+
 
 export default function Home() {
   return (
@@ -17,6 +15,7 @@ export default function Home() {
      
       <About/>
       <Services/>
+      <Real/>
       <Contact/>
       <Footer/>
       <ButtonR/>
