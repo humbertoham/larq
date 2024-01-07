@@ -3,7 +3,7 @@ export default function ButtonR() {
     return (
       <>
           
-          <div className="fixed bottom-4 right-4 box">
+          <div className="fixed zin bottom-4 right-4 box">
             <ul>
               <li>
     <a href="https://api.whatsapp.com/send/?phone=%2B527551441259" target="_blank">
