@@ -407,7 +407,7 @@ Ubicados en la colonia Cuauhtemoc , a 3 minutos del muelle de Zihuatanejo (1 km)
         <SwiperSlide><div className="gap-16 items-center pb-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-1 lg:py-16 lg:px-6">
         
         <div className="font-light text-left text-gray-500 sm:text-lg ">
-                <h2 className="my-4  tracking-tight font-extrabold text-gray-900  ">Masión Golondrinas Ixtapa $750,000 USD</h2>
+                <h2 className="my-4  tracking-tight font-extrabold text-gray-900  ">Mansión Golondrinas Ixtapa $750,000 USD</h2>
                 <p className="mb-4">•	La superficie del terreno es de 651 m2.</p> <p className="mb-4">
 •	La construcción es de 487 m2.
 </p>
